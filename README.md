@@ -1,10 +1,10 @@
 # Airlines-performance-evaluation-
 
-
-Objectives 
 Scope: Analyze provided data to prepare a Visual Dashboard using Tableau that provides a visual overview of Alaska Airline’s key performance features.
 Alaska Airline: number of flights per year (188,895), number of destinations (74 Airports), and 3 major hubs (Seattle, WA: Seattle/Tacoma International, Portland,OR: Portland International, and Anchorage, AK: Ted Stevens Anchorage International).
 Competitor (Horizon Air OX): number of flights per year (111,628), number of destinations (50 Airports), and 3 major hubs (Seattle, WA: Seattle/Tacoma International, Portland, OR: Portland International, and Boise, ID: Boise Air Terminal).
+
+
 Variable selection
 arr_delay: Arrival delay; Difference in minutes between scheduled and actual arrival time of flights.
 nas_delay: National Airspace System Delay: National Air System Delay in minutes.
